@@ -1,0 +1,25 @@
+h1 {
+    
+    color: grey;
+    font-style: italic;
+    padding-left: 2%;
+}
+
+label {
+
+    color: black;
+}
+
+::placeholder {
+
+    color: grey;
+    font-style: italic;
+    opacity: 70%;
+}
+
+input {
+    
+    margin-top: 1%;
+    opacity: 70%;
+
+}
